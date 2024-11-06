@@ -31,7 +31,7 @@
 		"@types/node": "^22.8.6",
 		"cross-env": "^7.0.3",
 		"eslint": "^8.57.1",
-		"eslint-config-neon": "^0.1.62",
+		"eslint-config-neon": "^0.2.0",
 		"eslint-formatter-pretty": "^6.0.1",
 		"lint-staged": "^15.2.10",
 		"lodash.merge": "^4.6.2",
